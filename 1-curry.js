@@ -1,3 +1,7 @@
+// 1. implement curry()
+// Currying is a useful technique used in JavaScript applications.
+// Please implement a curry() function, which accepts a function and return a curried one.
+
 // function curry(func) {
 //   return function(a) {
 //     return function(b) {
